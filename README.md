@@ -7,7 +7,7 @@ A single-file experiment in **3D quadruped locomotion** where a **Central Patter
 
 ## Screenshot
 
-![Dog Lab v7 3D UI Screenshot](demo.mp4)
+![Dog Lab v7 3D UI Screenshot](index.html)
 
 ## Why this exists
 
